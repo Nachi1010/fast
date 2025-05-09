@@ -40,7 +40,7 @@ jobs:
       - name: Ensure CNAME and .nojekyll 📝
         run: |
           # הגדרת CNAME עבור הדומיין הראשי
-          [ -f CNAME ] && cp CNAME dist/ || echo "practicsai.com" > dist/CNAME
+          [ -f CNAME ] && cp CNAME dist/ || echo "fast.practicsai.com" > dist/CNAME
           touch dist/.nojekyll
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4
