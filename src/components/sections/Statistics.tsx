@@ -70,7 +70,7 @@ export const Statistics = () => {
   const stats = {
     en: [
       { start: 100, end: 400, label: "AI Expert Graduates" },
-      { start: 1000, end: 4500, label: "Hours of Content" },
+      { start: 1000, end: 2500, label: "Hours of Content" },
       { start: 10, end: 23, label: "Completed Cohorts" },
       { start: 10, end: 42, label: "Hiring Companies" }
     ],
@@ -78,7 +78,7 @@ export const Statistics = () => {
       { start: 100, end: 400, label: "בוגרים במשרות AI מובילות" },
       { start: 10, end: 23, label: "מחזורים הסתיימו" },
       { start: 10, end: 42, label: "שותפים בתעשייה" },
-      { start: 1000, end: 4500, label: "שעות תוכן" },
+      { start: 1000, end: 2500, label: "שעות תוכן" },
     ]
   };
 
