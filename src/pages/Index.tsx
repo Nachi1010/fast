@@ -36,6 +36,7 @@ const Index = () => {
         <CourseDetails />
         <FAQ />
         <TechnicalDetails />
+        <QuestionsAndCta />
         <FloatingRegistration />
       </main>
       <CTA />
