@@ -51,7 +51,7 @@ export const Testimonials = () => {
                 <iframe 
                   width="100%" 
                   height="100%" 
-                  src="https://www.youtube.com/embed/SMJAIOOQao4?autoplay=1&cc_load_policy=1&cc_lang_pref=he&rel=0" 
+                  src="https://www.youtube.com/embed/t48AxhKTMc4?autoplay=1&cc_load_policy=1&cc_lang_pref=he&rel=0" 
                   title="AI Program Video"
                   frameBorder="0" 
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
