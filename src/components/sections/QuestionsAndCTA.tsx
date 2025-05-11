@@ -14,7 +14,6 @@ export const QuestionsAndCTA = () => {
         "<span class='font-bold'>Do</span> you have high computational or analytical abilities?",
         "<span class='font-bold'>Are</span> you a bachelor's degree graduate or have rich experience in unique domain knowledge?",
         "<span class='font-bold'>Are</span> you someone who can think outside the box?",
-        "<span class='font-bold'>Are</span> you a graduate of advanced mathematics studies?",
         "<span class='font-bold'>Are</span> you eager to break through barriers and glass ceilings?",
         "<span class='font-bold'>Do</span> you have a unique added value that could benefit us?",
         "<span class='font-bold'>Can</span> you integrate different knowledge domains, think independently and innovatively, and understand concepts deeply?"
@@ -29,7 +28,6 @@ export const QuestionsAndCTA = () => {
         "<span class='font-bold'>האם</span> יש לך יכולות חישוביות או אנליטיות ברמה גבוהה?",
         "<span class='font-bold'>האם</span> את/ה בוגר/ת תואר ראשון או בעל/ת ניסיון עשיר ב-domain knowlleg ייחודי?",
         "<span class='font-bold'>האם</span> את/ה אדם שמסוגל להגדיל ראש ולחשוב מחוץ לקופסה?",
-        "<span class='font-bold'>האם</span> את/ה בוגר/ת 5 יח' במתמטיקה?",  
         "<span class='font-bold'>האם</span> את/ה כמה לנפץ את הקופסה ולשבור תקרות זכוכית?",
         "<span class='font-bold'>האם</span> יש לך ערך מוסף ייחודי שיוכל לבוא עבורנו לידי שימוש?",
         "<span class='font-bold'>האם</span> יש לך יכולת לשלב תחומי ידע שונים, לנהל חשיבה עצמאית וחדשנית, להבין דברים ולא רק לשמוע?"
