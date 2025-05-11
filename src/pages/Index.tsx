@@ -28,7 +28,7 @@ const Index = () => {
         <Hero />
         <Features />
         <Testimonials />
-        <Article />
+        <AboutUs />
         <KeyAdvantages />
         <Statistics />
         <Registration />
@@ -36,8 +36,6 @@ const Index = () => {
         <CourseDetails />
         <FAQ />
         <TechnicalDetails />
-        <AboutUs />
-        <QuestionsAndCTA />
         <FloatingRegistration />
       </main>
       <CTA />
